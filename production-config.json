@@ -1,0 +1,4 @@
+{
+    "extends": "./cypress.json",
+    "baseUrl": "https://www.javatpoint.com/testng-tutorial"
+  }

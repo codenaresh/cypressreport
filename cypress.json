@@ -1,0 +1,13 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 60000,
+    "baseUrl":"https://www.qa-website.com",
+    "env":{
+
+      "qa":"qa cypress.json file"
+    }
+    
+    
+
+  }
